@@ -1,0 +1,1 @@
+function validate_parameters --> lib/externallib.php
